@@ -1,6 +1,6 @@
 ### Hey
 
-I write a lot of code; mostly Rust, other languages when required. I run an environmental tech company, working on tracking plastics. I also build games, mentor developers, make art, bake things, and make parody YouTube content.
+I write a lot of code; mostly in Node.js and Rust, other languages when required. I run an environmental tech company, working on tracking plastics. I also build games, mentor developers, make art, bake things, and make parody YouTube content.
 
 ---
 
