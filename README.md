@@ -21,3 +21,4 @@ Misc Tools:
 - [🖼️ Crunch](https:///weirdboi.dev/microhacks/crunch) - Reproducable image manipulation piplines: transform, crop, recolour images
 - [🌐 Flit](https:///weirdboi.dev/microhacks/flit) - Templated HTML transforms to run after your site generator does its thing
 - [🐌 Snail Race](https://snailrace.app) - Make decision by racing snails. Better than a coin toss
+- [👾 Sprite Studio](https://spritestudio.co.uk) - Lesser-implemented tools for 2d sprite work. 100% clientside persistent workspace in your browser
