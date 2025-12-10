@@ -6,7 +6,7 @@ I write a lot of code; mostly in Node.js and Rust, other languages when required
 
 ### Projects
 
-Most of my projects live on https://weirdboi.dev
+Most of my projects live on https://weirdboi.dev/explore
 
 Web Games:
 - [🛰️ Deep Space Derelict](https://microhacks.lcr.app/deep-space-derelict) - A short sci-fi roguelike; desktop browsers only
@@ -15,7 +15,8 @@ Web Games:
 Game Dev Libraries:
 - [🕺 Bevy Sprite Animations](https:///weirdboi.dev/microhacks/micro-banimate) - Full fat spritesheet animation system for 2d sprites
 - [🎵 Bevy Musicbox](https:///weirdboi.dev/microhacks/micro-bevy-musicbox) - Heavily opinionated system for managing game audio
-- [🏗️ Bevy 2d Template](https:///weirdboi.dev/microhacks/bevy-2d-template) - Quickstart game template, including cross platform builds (desktop, web, arm64), networking, asset loading, etc
+- [🏗️ Bevy Tween](https://weirdboi.dev/libraries/weirdboi-tween) - Flexible relationship based animate-anything tween library for Bevy games
+- [🧱 Autotile](https://weirdboi.dev/microhacks/micro_autotile) - A rusty implementation of LDTK's auto tile engine, optimised for real time use in games
 
 Misc Tools:
 - [🖼️ Crunch](https:///weirdboi.dev/microhacks/crunch) - Reproducable image manipulation piplines: transform, crop, recolour images
